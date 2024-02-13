@@ -1,0 +1,10 @@
+name: sele-test
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - django
+  - selenium
+  - webdriver-manager
+  - python=3.10
+
